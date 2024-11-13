@@ -11,3 +11,7 @@ j'ai renforcé la généralisation du modèle et réduit le surajustement.
 
 Ce projet m’a permis d’approfondir mes compétences en prétraitement des données, développement de modèles de deep learning,
 optimisation, et évaluation de performance dans le contexte de la régression avec PyTorch.
+
+Ce qui concerne la partie classification multiclasse, j'ai appris à appliquer des techniques de prétraitement des données telles que la normalisation et la standardisation pour préparer les données. J'ai ensuite utilisé l'analyse exploratoire des données (EDA) pour mieux comprendre les relations entre les variables. Pour traiter le déséquilibre des classes, j'ai appliqué des techniques d'augmentation de données.
+
+J'ai conçu un modèle de réseau de neurones profond (DNN) pour la classification multiclasse et optimisé ses hyperparamètres (taux d'apprentissage, optimisateur, etc.) via GridSearch. J'ai évalué les performances à l'aide des courbes perte et précision, et calculé des métriques comme la précision, la sensibilité et le score F1 sur les ensembles d’entraînement et de test. Enfin, j'ai appliqué des techniques de régularisation pour améliorer la généralisation du modèle et comparé les résultats obtenus.
